@@ -5,9 +5,9 @@ Assignment 2 - Huffman and LZ Coding Schemes.
 3) Used Huffman Algorithm To Encode The String.
 
 Bit Per Symbol In Huffman 	: Around 2.83 (May vary from run to run)
-Bit Per Symbol In LZ78 		  : Around 3.33 (May vary from run to run)
+Bit Per Symbol In LZ78 		: Around 3.33 (May vary from run to run)
 
 NOTE: 	A character is taken as 8 bit
-	      while the encoded data is binary (1 bit per symbol).
-	      Since it is still made as a string in C++
-	      actual file size may be larger. 
+	while the encoded data is binary (1 bit per symbol).
+        Since it is still made as a string in C++
+	actual file size may be larger. 
