@@ -1,0 +1,15 @@
++++LZ78 Coding Scheme+++
+
+Sequence Length (Symbols): 1000000
+Sequence Size (Bits): 8000000
+LZ Code Size (Bits): 3332175
+Compression Ratio: 0.416522
+Bits Per Symbol: 3.33217
+
++++Huffman Coding Scheme+++
+
+Sequence Length (Symbols): 1000000
+Sequence Size (Bits): 8000000
+Huffman Code Size (Bits): 2833158
+Compression Ratio: 0.354145
+Bits Per Symbol: 2.83316
